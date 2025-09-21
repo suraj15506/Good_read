@@ -2,9 +2,8 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Dataset](https://img.shields.io/badge/Dataset-21K%20Books-green?logo=databricks&logoColor=white)
+![Dataset](https://img.shields.io/badge/Dataset-60.89K%20Books-green?logo=databricks&logoColor=white)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen?logo=checkmarx&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-orange?logo=open-source-initiative&logoColor=white)
 
 
 This project focuses on analyzing **Goodreads book dataset** using **SQL** and **Power BI**.  
@@ -83,10 +82,10 @@ Key SQL queries include:
 The **Power BI report** (`Power BI/Good_read_dark.pbix`) provides an interactive view of the dataset.  
 
 ### Key Insights:
-- **Total Books:** 21.62K  
-- **Authors:** 13.96K  
-- **Average Pages:** 300  
-- **Total Reviews:** 28M  
+- **Total Books:** 60.89K  
+- **Authors:** 29.75K  
+- **Average Pages:** 285  
+- **Total Reviews:** 66M  
 - **Average Rating:** 3.9  
 - **Genres Covered:** 397  
 
