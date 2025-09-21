@@ -1,5 +1,12 @@
 # 📚 Goodreads Data Analysis Project  
 
+![SQL](https://img.shields.io/badge/SQL-Analysis-blue?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Dataset](https://img.shields.io/badge/Dataset-21K%20Books-green?logo=databricks&logoColor=white)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?logo=checkmarx&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-orange?logo=open-source-initiative&logoColor=white)
+
+
 This project focuses on analyzing **Goodreads book dataset** using **SQL** and **Power BI**.  
 It provides insights into books, authors, genres, and publishing trends through SQL queries and an interactive Power BI dashboard.  
 
