@@ -11,24 +11,35 @@ Goodreads-Analysis/
 │
 
 ├── Dataset/
+
 │ ├── Good_read_cleaned.csv # Cleaned dataset for analysis
+
 │ ├── good_read.csv # Raw dataset
+
 │ └── readme.txt # Dataset description
+
 │
 
 ├── SQL/
+
 │ ├── Good_read_Ques_answer.sql # SQL queries with solutions
+
 │ ├── Questions.sql # SQL questions only
+
 │ └── readme.txt # SQL analysis description
 │
 
 ├── Power BI/
+
 │ ├── Good_read_dark.pbix # Power BI dashboard file
+
 │ └── readme.txt # Dashboard description
 │
 
 ├── Visual/
+
 │ ├── Good_read_visual.png # Dashboard preview
+
 │ └── readme.txt # Visual description
 │
 
